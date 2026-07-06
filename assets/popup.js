@@ -11,7 +11,7 @@
     bd.className = "modal-backdrop";
     bd.innerHTML = `
       <div class="modal" role="dialog" aria-modal="true" aria-label="Policy Notice">
-        <h3>Welcome To Betfinal</h3>
+        <h3>Welcome To MB</h3>
         <p>Welcome Bonus. Are you 18+.</p>
         <div class="modal-actions">
           <button class="btn" id="age-yes">Yes, Accept</button>
