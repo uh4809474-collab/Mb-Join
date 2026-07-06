@@ -1,7 +1,7 @@
 // Minimal split: same behavior, two separate functions to call per page
 (function () {
   // Use relative path so it works in subfolders too
-  const REDIRECT = "https://vivaroa.online/";
+  const REDIRECT = "https://smartlaunch.site/";
  
   function buildPopup() {
     // prevent double render
